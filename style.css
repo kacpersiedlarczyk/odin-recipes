@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-image {
+    max-width: 100%;
+}
+
+.recipe-containter {
+    max-width: 35rem;
+}
